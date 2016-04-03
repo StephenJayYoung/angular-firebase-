@@ -1,0 +1,19 @@
+{
+  "name": "angular-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenJayYoung/angular-firebase-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenJayYoung/angular-firebase-/issues"
+  },
+  "homepage": "https://github.com/StephenJayYoung/angular-firebase-#readme"
+}
